@@ -1,0 +1,1199 @@
+Episode Number: 146
+Episode Name: Internet Numbers Man
+Unverified
+
+Unknown 0:06
+This is due by Friday, a weekly challenge podcast, Merlin man, Alex Cox and Max champion. This week's challenge us rechargeable batteries
+
+Unknown 0:25
+Here we go. Hey, I think we got it this time.
+
+Unknown 0:30
+The two of you guys should not be allowed to be in a room together. I feel the anxiety. I could feel that you're you're both sweating and your hearts are racing and your blockers beta blockers
+
+Unknown 0:43
+have another one now All right, let's all pop a beta blocker. Let's all pop a beta blocker and do an improv warm up.
+
+Unknown 0:48
+Oh god, this little blue boy says my life.
+
+Unknown 0:51
+Oh, let's let's do a little improv warm up together. You know feel like you guys have had a lot of tech support.
+
+Unknown 0:56
+Yes, me city. Give me a city.
+
+Unknown 1:00
+Okay. Here's your city. We're not divorced. And what do you hear that story? You heard the story? I told you that story right?
+
+Unknown 1:06
+No, no.
+
+Unknown 1:07
+Right before you go on stage. You start an improv show you go you everyone everyone. You sort of like touch each other on the back and you go got your back. Got Your Back.
+
+Unknown 1:16
+Oh, yeah. Oh, God. Just walk into the seat over and over again.
+
+Unknown 1:22
+resurrect myself. People should do that more. I got your back.
+
+Unknown 1:26
+No, no, no. Why do you like being touched? So zips up? Do you like to be touched
+
+Unknown 1:33
+me or Mac? I think he I like being touched for a little longer than is healthy. That gives me something to think about.
+
+Unknown 1:41
+The seven second hug is totally normal and fine. Totally normal and fine. You can leave anytime you want.
+
+Unknown 1:48
+Well, let's see for our listeners may not have pieced together exactly what you guys are. Let's just say you're in an undisclosed location. But you're together. Yes. And I'm I'm also out of town. But I'm in a different city and I'm recording from my hotel room. And we've had, shall we say? extensive technical difficulties? Well, only time will only time will tell if we're managing to record your end. I know that we're recording my end.
+
+Unknown 2:17
+Oh, come on. That part's easy. You know what this is? It's gonna be fine. I'm going to go touch Alex's back. Now
+
+Unknown 2:25
+the problem. The problem is Merlin cares about you hearing us which you know, I don't even know if you listen.
+
+Unknown 2:34
+I'm not gonna listen to a word that you say.
+
+Unknown 2:37
+checks out.
+
+Unknown 2:39
+Where are you? I'm in Seattle. I'm in my hotel room in Seattle. I'm going What's that? Nothing going. What hotel? Yeah, what hotel? Oh, it's one of the fancy ones that it's not one of the Pax ones I'm staying at like a slightly nicer hotel because I don't need to be by the convention center. And I'm going to Pike Place Market when we're done with the podcasts with friend of the show Seth Boyer Oh, yay Oh, we're gonna go we're gonna go see them toss the salmon you know that
+
+Unknown 3:10
+the fish throwing place right right right right
+
+Unknown 3:13
+the real that real Seattle shit I want the real spices really get in there Yeah,
+
+Unknown 3:18
+so get that take me to the real shit you know the what are the local cities like we gotta go to Pike Place Market
+
+Unknown 3:23
+you go you buy
+
+Unknown 3:24
+a Pearl Jam leg? Yeah, normal.
+
+Unknown 3:29
+there's a there's a magic shop there that I want to see. So So very, very kindly accommodating my madness and going to take place but I didn't Okay, if I came up with a good marketing idea for Seattle though. Okay. Oh, sorry. This is free. So I think maybe we should get this on john Roderick radar because I know he's pretty plugged in you know and see in the Seattle sort of scene here. But check this out. I think when you go to Pike Place Market. You should Okay, hear me out. I think you should be able to meet Frasier crane.
+
+Unknown 3:58
+Okay. Is it Frasier crane is like meeting Santa at the mall. Is it is it literally Kelsey Grammer
+
+Unknown 4:07
+Yes. When you go to Magic Kingdom is it literally Minnie Mouse? I take it
+
+Unknown 4:12
+Okay, how about this What if you go and it is Kelsey Grammer but you get to choose which character you meet. Maybe you want to meet him as beast and yet
+
+Unknown 4:25
+salads and scrambled.
+
+Unknown 4:29
+I love this idea. Other Seattle people. Could you meet a dead grunge rocker from the heroin? Yeah.
+
+Unknown 4:34
+Wait. A shot gun.
+
+Unknown 4:36
+Oh, no, no, not him. Oh, wow.
+
+Unknown 4:40
+Okay, I was I was gonna say somebody like, I don't know. I know one of those. One of those long haired guys who does heroin. Maybe he's a force ghost. This is a great idea.
+
+Unknown 4:52
+I'm just saying when you go to Disney, you you want to meet Ray. Okay. Yeah, yeah. And when you go to when you go to buy please market you want to meet Niles?
+
+Unknown 5:04
+Oh, I honestly, there's the Indy show Grey's Anatomy, they should just line up in front of every hospital and give me their autographs. And then I would like them to pat me on the back. But it's like they've erased Seattle from that show. And it's very, very disappointing. Where's like Frazier, it's like, hey, look at the remember. They had the green screen.
+
+Unknown 5:25
+It was for outside. We took a Space Needle. Yeah, yeah.
+
+Unknown 5:30
+It's like here, you know, I mean, the Golden Gate Bridge is leaving the north side of town. And it's somehow always in every scene. It's just it's it's I mean, I get it. It's the rice a Roni problem. You got to take the cable car to work. No, no one does that. No one does that. It costs twice as much as a regular ride on anything else. And it only goes down as one little area that only tourists go to so No, I do not find the rice a Roni. lot riding Roni.
+
+Unknown 6:03
+I heard something crazy. kooky and crazy about the Do you know the show? Chicago Fire? Yeah, I feel like I like the
+
+Unknown 6:10
+spin off of Chicago PD.
+
+Unknown 6:12
+Right. I don't know. There's all these like Chicago shows where they like Yeah, but yeah, I think it's like PD and fire. Oh, shit. And there was a Kelsey Grammer one. Right? Didn't you play like the mayor?
+
+Unknown 6:22
+I don't know. I have no idea was one
+
+Unknown 6:24
+where he was called, like the boss. Right? And it was Kelsey.
+
+Unknown 6:27
+Oh, okay, I
+
+Unknown 6:28
+need to really catch up on this. I haven't seen any of these shows. I've never seen a single episode of any of these shows. But they do feel they like film around the office and in my neighborhood all the time. So there's like street closures. Okay, I heard the other day. So basically, the premise of Chicago Fire is that there's these like, cataclysmic like awful events all happening to this one firehouse in like one block of Chicago. There's always like a toxic gas leak, and then a building explodes and like, it's always like some crisis for the firefighters like every week.
+
+Unknown 6:59
+Yeah, that happens on children's shows, too. There's a Welsh animated show called fireman, Sam. And it's basically about
+
+Unknown 7:09
+fire and Sam
+
+Unknown 7:10
+is basically about this cursed village with the most incompetent fire people in the world. And they're like, there's one little boy The
+
+Unknown 7:19
+price
+
+Unknown 7:20
+is one little boy that causes a lot of problems and his flaming paper airplanes, and they're fucking always setting the kitchen.
+
+Unknown 7:27
+on fire. It's the worst. I mean, it's like I don't know. It's like we're going to drug Clinton sending me all jacked out all the time.
+
+Unknown 7:37
+Blimey, there's another
+
+Unknown 7:42
+that's a good that's a good premise. What what would that be if they made a show about Cards Against
+
+Unknown 7:45
+Humanity? What would that be about? Probably someone's always mad at us on the internet.
+
+Unknown 7:52
+I used to enjoy your cardboard treats.
+
+Unknown 7:55
+So the IO so I heard the other day that they have some sort of deal with me the city or something thing where they will never show like the skyline of Chicago in such a way that you can orient yourself to know where this firehouse is. They don't want to have it in the neighborhood because that would make that neighborhood look bad. Does that make sense?
+
+Unknown 8:15
+Yeah.
+
+Unknown 8:18
+Really weird. Yes. Like people can't associate that's so
+
+Unknown 8:24
+fucking weird is part of the deal of that show is that they can never reveal where it's supposed to be taking place.
+
+Unknown 8:32
+Why is this also the problem? I never seen the program a little old. I was in college. I think I got Piper Is this the murder? She wrote problem?
+
+Unknown 8:40
+Okay, I have no idea. Is this the show with the old lady in the cat? Well, she's old by some standards. I
+
+Unknown 8:46
+don't know about the cat and the whole the cat is people keep getting fucking killed in her tiny little town in the animals like fucking Maine or something.
+
+Unknown 8:53
+It's so it's a real town and people went to visit it. It's called Jessica's Ville. Yes, yes.
+
+Unknown 9:04
+Yes.
+
+Unknown 9:19
+Okay, but but really this is not a bit San Francisco so interest I it's so interesting. It's very big. It's so so big. I have been late everything well, you know, everyone got mad at me when it when I said I would be at Merlin's on time. And then I was about 45 minutes late. Oh, I beat you. Oh my god. I
+
+Unknown 9:42
+trying to say it's not as easy not now who's laughing that as easy as it seems to get it rolling?
+
+Unknown 9:47
+I think it's a teachable moment for everyone. Yeah,
+
+Unknown 9:48
+now was breaking out into a cold sweat. How's your how's your
+
+Unknown 9:52
+hotel Alex? boy. Oh, thank you. Thank you. Oh, boy. Okay, I have to actually do you
+
+Unknown 9:59
+want to bring up Walker? I got a beta blocker.
+
+Unknown 10:02
+I want to take some more beta blockers.
+
+Unknown 10:07
+Hold on.
+
+Unknown 10:15
+My watch is blowing up but I don't care. Really
+
+Unknown 10:20
+no shipping. I don't want to have to testify in court about this.
+
+Unknown 10:28
+Well, I can't I can't promise that no motorcycles implied.
+
+Unknown 10:32
+Oh my gosh. Okay.
+
+Unknown 10:34
+Well, do you have low blood blood pressure I need to ask from
+
+Unknown 10:36
+I do not have low blood pressure
+
+Unknown 10:39
+is a pharmacist when I pick this up the pharmacy? This is a refund. Oh, wait before you free hotel bit. Okay, Max, I feel like I'm yelling a lot more. You can hear us. I can hear you. Okay. Alright, cool. Okay, so I go in to pick up my beta blockers. And of course, it's the same fucking this that our pharmacy is this Walgreens is farcical. You go in there everybody's inscrutable if you know what I mean? So I go in there, I go in there and and the lady goes pick up and I go and I say, Man, very quiet. And she goes, man, I said Yes, ma'am.
+
+Unknown 11:09
+First Name.
+
+Unknown 11:11
+Merlin.
+
+Unknown 11:12
+Okay, I dress
+
+Unknown 11:16
+and I go I go 1492 Santa Maria.
+
+Unknown 11:20
+de 92. Santa Maria LA, I got
+
+Unknown 11:24
+the queue here is that I'm speaking quietly because I don't upset I don't want you screaming my name in a Walgreens. She goes okay. propranolol is ready GABA pens not ready yet. Come back later. Thank you. Okay. Thank you. You want that you want to wait? And I said, No, no, I'm just the just the beta blockers fine. And then she has to call her the far. Far the yelling pharmacist comes over. And he goes refill. And I say yes, it's a it's a refill. It says okay, what are you taking this for? What
+
+Unknown 11:56
+that is not legal.
+
+Unknown 11:57
+That's not legal said I'm taking it for anxiety.
+
+Unknown 12:02
+Because this is our lot to take. You take all of these every day.
+
+Unknown 12:08
+I take them as need.
+
+Unknown 12:11
+It's not a job. It's not a job.
+
+Unknown 12:14
+It's like the trader joes checkout line philosophy of the drug store.
+
+Unknown 12:20
+Oh, these are great. And pie.
+
+Unknown 12:23
+Why do you Why do you buy so many lines? Because I'm an alcoholic. I'm not making pie. I'm an alcoholic. And so wait, I'm almost done. And then so he's like, he's like, Oh, yeah, I figured that's that's a lot of these usually for high blood pressure. I said yes. I I know. He says, All right. Well, do you have high blood pressure? And I said, I said, and I know, I know not to talk because the more I talk, the more they'll talk and I said no. He says okay, well, symptoms of low blood pressure will be that you feel dizzy. So if you start to feel dizzy, that's you have low blood pressure. And what I want to say is first of all, I'm here for anxiety and you're fucking freaking me out by yelling about my anxiety in the Walgreens but I also I also wanted to say listen fella last thing I got to worry about is my pulse being low and I wanted to show him my watch
+
+Unknown 13:19
+and I spent instead I said thank you
+
+Unknown 13:22
+how's your hotel Alex and
+
+Unknown 13:24
+and and yes and hold on. I'm gonna check my fault got some media Oh, let me see mine the oh I was at 95 that's healthy. Oh boy.
+
+Unknown 13:35
+I'm a 76
+
+Unknown 13:36
+Oh what in the world
+
+Unknown 13:38
+well I'm usually before I started taking this shit I was clocking 90 regular
+
+Unknown 13:42
+Oh dear. I you know what I don't want to hurt a job
+
+Unknown 13:45
+up beta blockers Alex you know what they do?
+
+Unknown 13:48
+They I assume lower your blood pressure.
+
+Unknown 13:51
+They block Okada tables filthy. I'm so sorry. They block they block a certain kind of adrenaline that generates the feelings associated with anxiety. So you you can still have an anxious thing happening. But your post doesn't go through the fucking roof.
+
+Unknown 14:04
+That is a dress. Uh, yeah, I just realized that's a bit in house just like okay, we're okay. People. I swear to God, people are going to tweet and say Alex is right. First. Merlin had a bit in Golden Girls. And now you have a bit from house. Oh,
+
+Unknown 14:21
+oh, you think I'm an old gay Syracuse
+
+Unknown 14:22
+at Syracuse. I'm talking about the things that you watch. Oh, it's very well as your hotel. Oh boy. Okay, all right. I sent you something something in the super secret text channel. I thought I had found a deal on a hotel. The hotel is San Francisco there's just everything inside it's like a Portland ES
+
+Unknown 14:44
+guys read all of this this is like you know like you will see like free guitar lessons.
+
+Unknown 14:50
+This this hotel that won't be named I can't believe you chose where you chose to be it was alright anyway. It looks like somebody printed 40 of these on a sheet of paper and then and cut them into one and yes
+
+Unknown 15:04
+they did not even use like a paper cutter This is definitely
+
+Unknown 15:09
+center aligned and not justified because then I would have to set the place on
+
+Unknown 15:15
+All right, I like I've lost the words ah one drink up Huh?
+
+Unknown 15:21
+Oh, God are all right. All right. There is in I think what is Helvetica? No, maybe for Danna, this is important to the story. Drink up in an effort to reduce waste and toxicity caused by plastic water bottles. We're pleased to offer you our complimentary environmentally friendly reusable hotel blank blank blank water bottle. For your convenience we offer capital and bold flour flow, flow water Low, low water filter into water stations in our hallway vending areas and capital fitness room. Flow water is seven times 777 x purified enhanced with electrolytes, trace materials minerals, no, no Oxford comma minerals and activated oxygen. Enjoy. Enjoy. And then there's the wonderful logo the logo of the hotel in Oh, it's real blurry. I just thought it was sleepy this morning. My glasses. Nope, nope. So in our hotel room, and I should say go into the hotel room. There's no water. It's reasonable not to buy or purchase pert do you say purchase like purchase the water bottle in a hotel room. But I was really thirsty and I was like I want some water. And I thought maybe there would be a Kimbo like when they
+
+Unknown 16:47
+got that to boss.
+
+Unknown 16:49
+Yeah, the tuba boss. Are those Fuji that's like $13 Oh no, don't don't worry though. I went to Walgreens this this Walgreens next door hotel doesn't open it till 9am so that's on me. But oh look, there's a food truck behind our hotel in what they call resort area because there's benches and picnic tables and a food truck from 9am to 9pm. Or I'm sorry, I'm sorry 6pm or 6am to 6pm Okay, so I'm like all right, I'm gonna go get a water bottle from here maybe? And they look at this Merlin Yeah, there's they saw me for literally $15 got a path water. It's called bath water water. Oh, that's Yep, yep. Uh oh, look at all your social media. But it's listening. Listen max. It is itself a reusable water bottle. So when you open it it says refill not landfill. So I am supposed to reuse this water bottle sold at the hotel after I was shamed for not using the water bottle that wasn't in the room even like I went to the front desk and they handed me this water bottle gross and in the paper somebody wasn't in it the paper was in and I did not know
+
+Unknown 18:09
+you don't like
+
+Unknown 18:11
+no no. But but the TV front and back in the hotel is very clean. The rest there's you know yellow sheets and there's lots of throw pillows.
+
+Unknown 18:24
+pillows. Oh, there's so many visible dingleberries Yeah, what's your how's your water Max?
+
+Unknown 18:33
+Well
+
+Unknown 18:35
+I haven't really explored this hotel room let's see what this okay I've got some glass I've got some glasses here. I would use those glasses they look at me why they were clean drinking water it's just tab this hotel has like a card in it saying you know this tote there's nothing in the room there's no like stuff in the room which is kind of nice honestly like they don't have a bunch of like you know shit out on the on the the what is that thing when you in the bathroom the counter the bathroom counter there's not like a bunch of stuff but there's like a little sign that says if you forgot something we've got it give us a ring and we'll give it to you for on loan or for the taking and then it's like cell phone chargers coffee maker lip balm. Errol tape hairbands humid
+
+Unknown 19:19
+borrowing a lip balm like a lip balm library sewing kit I think
+
+Unknown 19:26
+a lot of hotels like give you a bunch of shit littered throughout the hotel is very it's very like clean there's like not a lot of stuff everywhere I
+
+Unknown 19:34
+think those are I think those are like if you get not wash but if you get that stuff I think that's because that particular bathroom business unit has worked out a deal right Don't you think? Because that's that's that's advertising for for those folks and yeah you know this is a whole revolution now where more and more places are getting the the squishy puppies in the shower and you guys crazy puppy. Oh by the way EZ pumped yes we see pumping Okay, I think that's a thing and also just so you know Alexandra when you leave town you will no longer be able to buy a bottle of water at the airport as of this week. What well you'll no longer be able to buy a plastic bottle of water it must be a metal bottle of water because they ban the plastic at SFO
+
+Unknown 20:16
+You know what? Good Good thing I bought this water that is refillable aluminum bottle 100% 100%
+
+Unknown 20:24
+how are you supposed to take water on the airplane?
+
+Unknown 20:26
+You bring a refillable water
+
+Unknown 20:28
+yeah we do that thing like like it's the new fucking yoga mat.
+
+Unknown 20:32
+Where's the water come from?
+
+Unknown 20:35
+Oh, he probably once oh sorry It's a place where we get our water from it's like 100 bucks
+
+Unknown 20:42
+we have great tap water oh no no no. Okay, so let me get let me let me let me try
+
+Unknown 20:47
+it boys. The boys like a shake machine littered around by where they have the garbage cans you fill your water and one of those
+
+Unknown 20:53
+so you stand right over the open trash. Yes.
+
+Unknown 20:57
+Yes. there next to the bathroom. Yeah,
+
+Unknown 20:59
+okay, and then you just position your refillable water bottle. Yeah, no, I don't I have I can little weird about those refillable water bottles. Oh of course
+
+Unknown 21:08
+you do. You got to think about the cross contagion i mean you know German has ever touched that nozzle those are
+
+Unknown 21:17
+the germs
+
+Unknown 21:20
+I'm sorry I didn't hear you I was making bad joke.
+
+Unknown 21:22
+It's not being cleaned as much as it oh no
+
+Unknown 21:26
+OYY no.
+
+Unknown 21:29
+clean those shake machines at McDonald's.
+
+Unknown 21:31
+I don't think they clean Oh boy. I went I went to the on the way to Gen Con I stopped at a McDonald's and they have the new global menu now What's this? They have like a global treats menu now like it is an international it's all international yeah international tree can
+
+Unknown 21:50
+give me some give me some idea of what that what that is like away yeah like a burrito a rap.
+
+Unknown 21:55
+I got the one that I tried was a strip waffle MC Flurry.
+
+Unknown 22:00
+Oh gosh, it was good. That was good. It was gonna
+
+Unknown 22:02
+be my pole dancer name just for
+
+Unknown 22:05
+my It was like big. It was like big crunchy. clusters of cookie and karma in this in the quick flurry was good as hell.
+
+Unknown 22:12
+This sounds delicious.
+
+Unknown 22:14
+I endorse this. I endorse this product. It was really really good.
+
+Unknown 22:17
+Like me a strip waffle.
+
+Unknown 22:18
+This is a side of sourdough bread. Oh my god.
+
+Unknown 22:21
+And what else and then this week we I also did go to Popeye's, and I got the spicy chicken sandwich from Popeyes that everyone's talking about. And it was outstanding. It was really good.
+
+Unknown 22:33
+Oh, haha. And he didn't give me a biscuit. What's the owner? What's your review?
+
+Unknown 22:37
+It was excellent. It was really good. It was better than Popeye's or I'm sorry. Better than chick fil a
+
+Unknown 22:42
+chick fil a. I like them both. So I know was the Popeye's thing everybody's worked up about is this a new product for Popeye's?
+
+Unknown 22:48
+Yes. It's brand new. It's the chicken sandwich. It's basically it's kind of, I mean, for lack of a better descriptor. It's kind of a chick fil a chicken sandwich. It's sort of a it's a
+
+Unknown 23:00
+but in but in the Popeye's taste and style.
+
+Unknown 23:03
+Correct. It's a hapa is breading, which is a much better breading. It's the it's the real. It's the real flaky breading the Popeye's breading? I know
+
+Unknown 23:11
+exactly what you mean. I I have to stop going. Pop IZ McDonald's. I know that's my daughter to remind me. I never want to go there. Not again, but mostly not um, and also, it's right near where we buy our miniatures and our paints around Divisadero and it's a treat for me sometimes I get to go in there and I get a three piece spicy white meat with red beans and rice. They were just shut down for Roach infestation is the thing we're dealing with so I don't know if I want to get the spicy thing there. I love chicken say wow, that
+
+Unknown 23:40
+that that's a the on this mic on my end of the microphone. The trolley car is very audible
+
+Unknown 23:49
+experience.
+
+Unknown 23:50
+That's good that you've got your podcast and Merlin's podcasting Academy. For for witches, witches and wizards. Merlin
+
+Unknown 23:58
+the pot. It's called the full name is the pod lyst Academy for boys.
+
+Unknown 24:08
+Berlin men do you want to be a good podcast? Boy?
+
+Unknown 24:13
+I got beta blockers. Your mom said it's okay. I said hi.
+
+Unknown 24:20
+Academy of podcasting
+
+Unknown 24:28
+is close to my house and I can afford it and then I went Oh no.
+
+Unknown 24:50
+I have tried everything. The thing is if you lay on the ground the ground literally
+
+Unknown 24:58
+like sometimes you'll hear like like you'll hear like
+
+Unknown 25:05
+Well, that was a big one. Anybody else feel that?
+
+Unknown 25:09
+Merlin your pupils this could really have an impact on their life.
+
+Unknown 25:15
+He gave us candy to give you candy. Well, beta blockers he said you said it was all right.
+
+Unknown 25:21
+shaky there?
+
+Unknown 25:22
+They're sitting there waving an XLR cable around going we're Guardium Livio saw
+
+Unknown 25:28
+the trolley comes through Hey,
+
+Unknown 25:30
+eat from me from you want to lay on the ground? On the ground? See what it feels like shaky, huh?
+
+Unknown 25:36
+beta blocker. Ephraim. Are you okay?
+
+Unknown 25:41
+Feel your carotid artery.
+
+Unknown 25:44
+You guys see that? Donald Trump said, quote, I am the chosen one this morning. The King
+
+Unknown 25:48
+of the Jews? I am the chosen one.
+
+Unknown 25:51
+No, he said he it's a new thing. It was about the trade war with China.
+
+Unknown 25:54
+What? So he said the same day. He said he's King of the Jews. He also said he's the chosen one.
+
+Unknown 25:59
+You Yeah. Wow. Yeah. He said I'm the chosen one. I the clip was a little less crazy. You know, here's the thing is like, like Trump, like, I think he was joking. I'm not clear on it. I mean, he's always joke. He's always joking and not joking, right? Like, because when he does when he Trump loves to joke about being president forever, and not, you know, and and
+
+Unknown 26:20
+how that drives that drives liberals crazy when he says that.
+
+Unknown 26:22
+I know. And I know what he know, he
+
+Unknown 26:24
+even remarks about that. They think it's crazy. I've heard some people say 24 years, 32 years.
+
+Unknown 26:30
+Right? He's trolling and I and I hate that it works on me, because I know that it's deliberate. But it does work on me. I'm very upset. I'm triggered.
+
+Unknown 26:39
+He's actually bullying grown men. And it is. I don't understand why it's working. It's like when you retweet him, like why? Why would you let him get into your head? Yeah, it's it feels like you're giving him permission. Why
+
+Unknown 26:55
+don't it listen? I mean, that he I think about Trump for for five hours a day, but I don't Yeah, not too personally, I try not to like inflict that on others. Like, that's just my own burden of like,
+
+Unknown 27:09
+have you considered again, I'm just just going off the Twitter. No, I'm
+
+Unknown 27:15
+I already is mostly off mostly off.
+
+Unknown 27:17
+You know, what I've been trying, I've had a couple months of like travel almost every week. And that is nearing an end in I will be home for for like, the rest of the fall. And pretty soon. And I think that for me, the pattern is like when I'm traveling a lot. I'm on Twitter all the time, because I have more of those moments where I'm like, in a cab or in an elevator, and then I'm like, What do you do for you have two minutes, right? And it's like, what do you Well, it's not really enough time to like read a book, or learn a magic trick. You know, I mean, it's a little. So it's like, yeah, I'll jump on Twitter and see what everyone's saying it's somehow feels, it's very alluring. Because doesn't it have a little bit of that feeling of like,
+
+Unknown 27:56
+I mean, you're, you're away from home, but you're still you're still connected?
+
+Unknown 28:00
+It's not even the away from home. It's that it's that it's that it's like, okay, you have just a little bit of time. And there's something about Twitter that that feels almost like maybe you're doing something, you know, it's like, no, like, I'll see what the people are saying. Like, it's, you know, I look I'll I'll check in on like, the discourse like I would, you know, it's like, it's like, I could just play threes on my phone. But three is is like fully self indulgent, right? I'm like, wow, this is just a waste of time. But if I go into Oh, right, right, right. Twitter, Twitter has like a little bit of a little bit of this allure of like, Oh, no, it's not a waste of time. I'm like, I'm like in the mix. I think
+
+Unknown 28:38
+I think our president, does that make sense?
+
+Unknown 28:42
+Yeah,
+
+Unknown 28:43
+I mean, I was actually going to say I was off Twitter for a couple days. Not intentionally, but it was the opposite. Like I had long stretches of time was where I pat myself on the back and said, Yeah, you're going to read a book. I had no idea what the fuck was happening for like three days, and I miss many messages. Because I'm very, very popular. missed any sort of news. Did not know 25th amendment now. Oh, pray for Amazon. Why are we praying for Amazon boy?
+
+Unknown 29:15
+Yeah, um, let's check it on Twitter. But I just have to say just just in passing before we're done. I think the man has a Tobias Okay, problem. He does not realize so I don't think he was deliberately saying a Jesus thing. I think he said he accidentally blew himself basically. I think you don't I mean, I think he's, he's got a problem where like, he just he just says shut that everybody else interprets in the way that you know, it comes across to their mind because it doesn't occur to him that the way he says it, and just a weird way, the weird way that he says everything. I'm not gonna do the impression because I know you don't like it. But like, but just so like his thing about fucking Greenland today. Did you see that one? You love to see it.
+
+Unknown 29:56
+Alright, alright. So this is what I woke up to today. Let's see.
+
+Unknown 30:02
+God may proposal to the politically correct automobile companies title case. Okay. Okay. finance your mainstream media doing great. All going great. Let's see where's he had a he had a threaded thing about his visit? to Denmark, I guess. Let me find this.
+
+Unknown 30:22
+Do you have a favorite Trump impression? Do you think anyone chart it's a true Trump is really interesting. Yeah.
+
+Unknown 30:27
+The The Comedy Central guy. I think he's really good. Trevor Noah. Know the fellow that does the trunk show. Oh.
+
+Unknown 30:35
+Is that Anthony?
+
+Unknown 30:37
+Yeah. Yeah, that guy, that guy
+
+Unknown 30:39
+at a maniac or so. He's up. You know, it's interesting is I think, I think he's doing a Trump impersonation. But I don't think he's necessarily got like an angle on the guy.
+
+Unknown 30:51
+Well, I just think he does the best. Like, you know, he really does sound like and look like
+
+Unknown 30:56
+yeah, I mean, Alec Baldwin does a serviceable mic. Yeah.
+
+Unknown 31:01
+First Nation, I mean, news, really, you know, who's really good as the guy who, who used to read the tweets on Trump cast?
+
+Unknown 31:08
+Oh, yeah. For his new Yeah. Oh, shoot. I notice.
+
+Unknown 31:11
+He's great. No, but none of those people are have none of those people are doing like a comedic impression like that. None of them have an angle on him. In the same way that like Dana Carvey did the Bush Senior.
+
+Unknown 31:23
+Oh, right. Right. Right. Right.
+
+Unknown 31:24
+It's a it's a slight it's a subtle distinction, but like it kind of bugs me that we no one's like cracked the impression yet no one knows how to sort of like, make fun of Trump in a way and maybe it's just because the guy is so on serious.
+
+Unknown 31:38
+Okay, I'm going to read this now. Okay. Denmark is a very special country with incredible people, but based on Prime Minister meta Frederickson, his comments that she would have no interest in discussing the purchase of Greenland. I will be postponing our meeting scheduled in two weeks for another time five dot ellipses 5004 dot ellipses. The prime minister was able to save a great deal of expense and effort for both the United States and Denmark by being so direct. I thank her for that and look forward to rescheduling sometime in the future. She cancel the trip trip he canceled his trip to Denmark and said that she was nasty, because she will not consider selling a country to him.
+
+Unknown 32:20
+He's president, vice president deals.
+
+Unknown 32:39
+I'm sundown now. I'm Sunday.
+
+Unknown 32:43
+What do you think is happening with this? Denmark is a dog with a bone it's just
+
+Unknown 32:48
+the thing that occurred to him and they went out great idea you should buy Greenland that's the cold one right? I think do you think he saw it on TV or something like that?
+
+Unknown 32:56
+Oh, I see. Like oh,
+
+Unknown 32:58
+yeah, like I'm like, Matt Matt knows it Matt Kurtz Is he the one who does the real time the real time connection of what he's watching on Fox to what he's saying on Twitter?
+
+Unknown 33:09
+Yeah, like we're like well how did that get in his head? Do I should I think about it?
+
+Unknown 33:16
+No, they had for girls like you
+
+Unknown 33:21
+maybe want to put on my reading glasses.
+
+Unknown 33:26
+Felix's Joe Biden is my favorite thing right now. Oh my god it's so good. It's so weird and so he must write it there's no way he's coming up with that because he does sound like somebody's son downing deranged uncle when he does.
+
+Unknown 33:44
+praise for guys like you anymore. He's
+
+Unknown 33:47
+upsetting Lee funny.
+
+Unknown 33:49
+He's insanely funny. upsetting fat like
+
+Unknown 33:51
+no one. She's so quiet. He's so
+
+Unknown 33:53
+quick. He came up with a fake name. And so fat mass pretty good the names too but like, oh, god anyways. You do? You do love to see it.
+
+Unknown 34:04
+Oh, to see it.
+
+Unknown 34:05
+Are we gonna? are we are we going to talk about the variety?
+
+Unknown 34:09
+No.
+
+Unknown 34:13
+problem is when you when we when we have backlash to backlash about podcasting. It's not a good look. It's not.
+
+Unknown 34:19
+It's just a really funny covered. Okay, Alex, Alex,
+
+Unknown 34:22
+how's your funny? Can you explain the thing? Can you explain the thing that we're not going to talk about?
+
+Unknown 34:26
+Yes, please. Yeah, there's just
+
+Unknown 34:28
+a Alex, you brought it up. It's
+
+Unknown 34:30
+on the show. Now. It's in the show. Now, the talk, but we won't talk about it. But you say what it is that we're not going to talk about
+
+Unknown 34:37
+there's a cover story of variety is Conan talking into a microphone, also surrounded by lights? I don't know. It's just a very funny photo. And it's a typical boring, podcasts are booming type thing. And it got people a little angry, including me. And I don't know why it's, it's dumb. It's like when
+
+Unknown 35:01
+you should read the exact language because the exact language is the same exact language that they always use that that makes it sound. I don't actually care. No, I don't actually care. Really. I It's fine. It's I'm glad people are learning about podcast. That's good. No, but it's in that same language that that is, you know, there's like whatever the Aristotelian seven kinds of stories or whatever. This this is the kind of story that's about, here's it's a trend piece. Like, here's the thing that's breaking big right now. And it's called podcasts. And the problem is that as I think the problem is, I think the reason people get frustrated is that they are new. These are people who are new to podcasting, which is fine, which can be a little seem a little bit carpet baggy. But I think really cereal was the first one where we all went, Are you fucking kidding me? Like, there's been so many podcasts for so long. And they're not all like angry people from public radio. It's like there are people who do podcasts because they love the medium, not because they don't want to work with the New York Times anymore.
+
+Unknown 35:58
+It just is feels like gatekeeper
+
+Unknown 36:01
+how many people do we how many people do we know, just between the three of us who like fully make their living doing podcasts? And not not to say that this is like every person could do this. But like, yeah, it's out there. Like a lot of people like it's a important part of their livelihood.
+
+Unknown 36:16
+And it's their passion. I would put I would put it this way, I'd say I would say the way that I would phrase it is how many people do we know that probably could live on their income from podcasting? And and that answer is I I would say I know at least 15 or 20. People probably I don't know.
+
+Unknown 36:30
+Yeah, it's it's not it's not in substantial. It's a fine. It's like a good and I know even more people who have like, an extremely rich and rewarding hobby that has allowed them to travel all over the world and make amazing friends and connect with people because they do a podcast. And some of them are nice, right? You're doing something that like a few hundred people like really, really love and it's their favorite thing in the world.
+
+Unknown 36:52
+But even if it's not the money, you look at Michael Lewis, Michael Lewis doesn't need the money, but it's helping to promote his book. He's a really good author. He's actually a very good interviewer. His audio is wonderful that show he did about his books. It was it was terrific. I don't think it's I don't think we need to just talk about the money part. And just the popularity part. It's just,
+
+Unknown 37:10
+it's that it's that podcasting doesn't need saving or fixing, like podcasting is going great. It's awesome right now. And the only thing that just pushes my buttons about not just this Friday piece, but all this sort of like genre of journalism, is this whole idea of like, oh, they're like celebs and Hollywood are doing it now. So like it's arrived, like now they're going to come and fix it. Like what the fuck to these people know, like, they can't even do their own industry, right? Like all of this everything they touch dies because they're incompetent, and they don't know how to how to make the business model films work anymore. Like that's why they can only make six superhero movies over and over again, and there's no movies.
+
+Unknown 37:47
+It really that honestly doesn't bother me like the whole man. We were here first type of thing feels weird and annoying, even though people were here first that
+
+Unknown 37:57
+that is a good summary of what I said. I thank you for. We're wrapping that up. Right.
+
+Unknown 38:01
+Okay. Okay.
+
+Unknown 38:04
+It just bothers me.
+
+Unknown 38:06
+That's what I was trying to say. And I think you put it in a much quicker. Thank you.
+
+Unknown 38:11
+Okay, okay. Is he kidding? I can't tell.
+
+Unknown 38:13
+I can't tell either. And they can't Yes. And yes, I'm the but think about how YouTube for a while was all of these amazing creators were kind of coming up at once. And then like Logan, Paul, and then YouTube storytellers like this weird genre emerged because the platform of YouTube itself changed. And now there are very few people who start a YouTube channel because they are like, Oh, it's not original, or you know, I want to make money from it. And it's, it's like embarrassing if you don't have enough followers. And I worry that podcasting is going to become that where if someone does have something that's truly unique, and boring, even if they don't, they are going to feel like oh, no, that's like hard. The people who do that make it like it's a job. I don't know. I want it to be open and God forbid, like, what if a luminary had been a success like in an alternate universe? The world would the podcasting world would make me very sad if we were all like on luminaries. Oh, God, I I heart media. Is that what it's called now? Yeah.
+
+Unknown 39:23
+Yeah, I mean, it's I think everybody's right. Um, the I mean, I know of I'm I'm acquainted with hosts of three different shows that are without always saying it basically about reading a Wikipedia article. Let you know, there's there's a whole genre of like, like, weird facts, you could even you could even include stuff like no such thing as a fish, which I think is a very, I'm guessing is a very successful show. I think it was apples, like best new show a few years ago. And you know what, that's what they do for a living they look up interesting facts. There's, there's room for so many people to do that. And just because that already exists somewhere else is it shouldn't be a burden to people do you know, we YouTube thing I might YouTube is different from my thing most people's YouTube. were like, I don't know, I I'm given to believe Alex, get my back on this, that there's a whole thing that's just about replying to other people's YouTube videos, or a group like having a hot take on somebody else's YouTube video, which then leads to more hot topics. Isn't that a thing that
+
+Unknown 40:27
+is storytelling, what they call a storytelling YouTube, where they either tell their own story, or and then sprinkle in like they weave it into someone else's video. And it's a response to that. And there are people like, I don't know, like Phil did something. I don't know that. Like there are channels who do straight up recaps, and then there are ones that in caps of other YouTube videos. Yes, correct. Holy shit, but there are also the ones that you're talking about where it's just
+
+Unknown 40:58
+like about YouTube drama. Alright,
+
+Unknown 41:00
+yeah, there's drama. And then they like, tag other people that are like, you know what, I'm sure this person is going to make a video and then that person does make another video as a response to a video from the popular YouTuber. And they're all just kind of weird and sad. I don't know what people like what they like. It's just, there's so much bullying. I went down a rabbit hole of like bully YouTube, basically. It's really just, I mean, I know if you go and watch a lot of Nazi just, quote right wing videos, like eventually you'll get to the Nazis. But if you watch like, Jake Paul, once you leave, you just get led down this rabbit hole of meanness.
+
+Unknown 41:43
+I don't know. Now, I've made myself sad again.
+
+Unknown 41:46
+I like I didn't trust me. Sometimes it just oh god. How many days did I watch last night? Holy shit. I'm like, there's that weird genre of there's that one guy who just most of his videos, almost all of his videos are just edited together things from other YouTube videos of like, who sang this eight bars from I dream to dream best.
+
+Unknown 42:10
+Oh, well, that's a meet. Yes. Yes. That's amazing.
+
+Unknown 42:14
+Yeah, but it's weird. Here's one that I got it last night, which is mostly This is a Spanish guy who is called famous sing their hits. Famous sing their hits before versus plus 20 years later. And it's a four part series. Here's Russell Hitchcock from from air supply doing all out of love. 838 years apart. Here's the OW Harry. Oh, boy. Simon Garfunkel, but it's all just he's gone and dug up old and recent performances and put it all together. Nina Nina from 99 Lyft balloons? I don't know. I'm kind of into that.
+
+Unknown 42:50
+I like that. That's like it. I'm not making my point. Well, because there are so many different kinds of YouTube just like everybody has has a different kind of podcast app because it is open and great. But YouTube seems to be shrinking in on itself. like think about the awesome base guys that we all like yes, those base videos Adam Neely, then yeah, and then your lead down like music youtube. And slowly the videos are older and older and older. And then the Nazi
+
+Unknown 43:21
+music youtube.
+
+Unknown 43:23
+Yeah. But but but there aren't as many people making them for. From what I've seen, like there's a point almost where you can stop after you've watched like Adam Neely and then many old old videos from like old bloggers and they're very good. Whereas if you are just going to Nazi YouTube or storytelling, YouTube, it is endless. And I don't know, I'm just lock picking
+
+Unknown 43:48
+guys. You gotta get into lock picking YouTube. It's so
+
+Unknown 43:51
+Oh, the lock picking lock picking lawyer rules lock picking lawyer. That's the one Yeah. Have you Did you see the one where he melt the law with gallium?
+
+Unknown 44:01
+No, I did I saw was at this at the brute force one. I haven't seen that yet.
+
+Unknown 44:04
+Look up lock picking lawyer gallium. Okay.
+
+Unknown 44:10
+here's, here's what I would say. Because I'm missing. I'm trying to articulate my point a little better. And like there's something about a medium when it's when when before like big money, isn't it? Right? When people are spending like, thousands of dollars and not millions of dollars on to in the medium? There's some little moment there were a lot of really cool, weird, creative people. They look at that medium. And they go Why could do that. And then they make something weird because the boundaries, the conventions, and the boundaries aren't defined yet. And it's like, well, everyone's doing everything. And it's all weird. And that attracts a certain kind of person who's like, I don't really give a shit up if I make a lot of money from this or not. But I can but I thought of something weird I can do with this medium. And those things like that. There's a a real like depth to them, like because they're so fully committed. And sometimes those people even though this isn't, I don't think their main intention, they do wind up making a lot of money on it right? In like indie games, and specifically in the board games like that is the story of Cards Against Humanity of like, we just I just saw people making their own board games. And you know, and we had made this prototype of cards. And I was like, Well, shit, like we could do that, like everyone else is just some guy figuring it out. And we never had like, there wasn't ever an intention to start a company or make any money. It just sort of happened because we like, made this thing that was that was like, real, real authentic to the thing that we wanted to make. And then at some point like, and that listen to the same thing happened in board games, like at some point, there was like all this consolidation, and a bunch of big industry got into it. And now it's like very homogenized. And when this year I went to Gen Con, and Alon and I, alone who makes Exploding Kittens. And I were walking on the show floor and we were like, everything on the show for was licensed. Like everything was like, oh, okay, Netflix, licensed and movies and franchise. And we're looking around and we're going like, Man, this is all coming, this is all going to collapse. Like,
+
+Unknown 46:05
+it becomes a different industry. It's like those certain like comic book companies that aren't the big three that where they'll just like lions, or whatever that is Scooby Doo, or you know, whatever, right? Similar deal here where you're not really making games anymore. I don't know what selected. I hate to say this, but we don't have ads on here. A lot of the companies that do a lot of podcast advertising, if you just dig even a little bit beyond the surface, you realize they're not manufacturers, they're marketing companies, right? There are companies where it's just like, Oh, no, just drop shipping furniture from North Carolina or wherever you
+
+Unknown 46:37
+bought the factory in Germany.
+
+Unknown 46:40
+My name is Jessica. The guy goes, my name is Jesse. I think it's Jesse Thorne. And it confuses me. We decided to make a watch without a shirt.
+
+Unknown 46:50
+Give a free pair of every African.
+
+Unknown 46:53
+Just to wrap up my little train of thought here is podcasting is so exciting. And like I love the little scene that we have in podcasting, and all of our friends. Because like, people really have like, fucking figured this out. Right? Like they can do their own weird thing. I don't think the most people that we know are like, I'm going to start a podcast so I can get rich. I think they're like, I have something to say. And I can just put it on the internet and people will listen to it. And that's cool. That's cool. There should be more of that. And by the way, the people who do get rich, or make any money in podcasting, they generally start with that attitude. All these people who are like, I'm going to become a millionaire of my podcast, guess what their shit sucks. And it rarely connects with an audience. So I like the like the like aesthetic. Like I like that it's gotten as big as it has, and it still has a little bit of that punk rock like indeed, yeah,
+
+Unknown 47:37
+absolutely. Yeah.
+
+Unknown 47:38
+Like I like with you by Friday, that people can go on our Patreon and they can go to give us your fucking money calm and they can give us $5 a month.
+
+Unknown 47:52
+And we thank you and we don't have to have any ads. Yeah, you know what? I'm not I'm not like very I don't fit. Do you guys feel like pressure I
+
+Unknown 48:00
+feel like they could give as little as $5 a month. And I'm love that I love that they can do that I love
+
+Unknown 48:06
+and if you do that you get our exclusive after show that we record. Yes. This week only you will get a special, special bonus bonus episode about 20 minutes of Alex and Merlin just frantically yelling about audio hijack chords in and out, I saved all the audio and we will edit and
+
+Unknown 48:23
+just I love that people can do that. I just did so so punk rock that they can give us.
+
+Unknown 48:29
+Yeah, let me let me ask you this D I don't I actually really love this. I do not feel like a ton of pressure to like dramatically grow the audience size or like,
+
+Unknown 48:38
+No, no, I don't like oh, no, no, no.
+
+Unknown 48:41
+Like, you guys wake up every morning and you're like, man, how do we get more listeners to do by Friday Empire? Like, I don't care. It's awesome how I love how it is,
+
+Unknown 48:49
+you know, but I wake up thinking how am I going to disappoint people today. But But if you're not healthy,
+
+Unknown 48:56
+it's not just an audience. It's everybody. So it just it's just another way,
+
+Unknown 49:01
+I'm just not, I just I like that I really want to. I've been through other industries where we've had this cool moment, and then it's kind of collapsed. And so I've now have a little bit of wisdom to say like things are really, really good now like, these are the moments that we will look back on and go, those were the good times, like we will look back at we will look back at 2019 at some point in our lives we go. Those were the salad days. That was it.
+
+Unknown 49:24
+I totally agree. I totally agree, especially in the sense that like, as somebody who like I miss my own podcast, I miss you look nice today. I didn't appreciate it much. At the time, I didn't appreciate enough how much I love doing that. And the response from other people. But even now, we get a new episode of The bam bam, every Monday, that's still happening, that that's not going to happen forever. I get a flophouse every other Saturday. And that makes me so happy. I don't know how often you're wrong about comes out, but probably every other week. But every time every time a new episode comes up, I'm excited. All of those shows are not going to be around forever. You know what I mean? point, you know, you're gonna go back and listen to them and re listen to them. But like, to that point, I totally agree. Just the other quick thing. And I think about some john Gruber said, when we did that talk at SXSW that some people like we were talking about blogging, and we didn't I don't think we even realized at the time how much that was kind of the end of the good blogging era, in whatever that was whatever year that was, but he said, we were talking about, you know, the motivation to do what you do. And I realized it seemed like kind of a busted gut talk for two successful white men to give. But you know, the truth is, he said something about, you know, you could see these guys coming a mile off that people whose motivation is to get into this for strictly mercantile reasons. And I mean, I'm not here to say that professional people can't do great work moving into a new genre, because they absolutely can. Something I've said to y'all many times and in our slack is that I I do feel like I tend to enjoy and stick with podcasts by people who used to be or are writers, rather than people who are used to be broadcasters. I feel like there's a really fundamental difference I think a lot of in my heart. I feel like a lot of broadcasters, former Public Radio people, mainstream media people, I think if they were honest, they would they would admit they feel a little bit like they're slumming, because that's the thing they've got to do. Whereas people that used to be writers, I think they're grateful to have the gig, you know, and motivations don't always have to make a difference, but I think they can not least because whenever you go into a new thing, a new genre, try a new project, your motivations, let's just give two distinct but maybe related motivations. If your motivation is to be liked by people who do what you do, that's going to create a certain kind of attitude about how you do what you do. Right related to that if you if your motivation is like I want to get better at the thing that I do. That's now you shed a little more into what is your motivation is it just get more numbers, and you want to get more numbers because you can get ads and you can get ads in and get more ads? I think that can be a very corrupting primary motivation. It doesn't mean you don't want to make money to be motivated by this to me good things.
+
+Unknown 52:01
+Can I share a great a great little great little brainstorm with you about this about that exact thing? I want to make I want to make a new file a new entry in the Dubai Friday canon. Okay, so there's a Japanese magician that Jordan Jordan and Simon and I are all think is a master? He's a pretty young dude. He's a pretty young dude. new name shoot a gala. Okay, okay. And he speaks just a little bit of it. And he's not like, he's, he's, he's like, his English is okay. But he's not like, a, like a native speaker and English. Shoot is like a God of man. I mean, he is probably, I mean, his shit is so next level. It's so deceptive. And we everybody think, I mean, every this guy's got like crazy chops and his all his own original stuff. It's he's, it's really humbling to like, see him perform. And we all I think, I think a lot of the people that I'm friends with in magic, like, really look up to this guy, shoot, and we're like, shoots the real deal. Like, and most people have no idea who he is, and they haven't heard his name. And Jordan one day was talking to Jordan is like my magic teacher. And Jordan was talking to shoot and Jordan said to shoot, he said, shoot, do you know there's these like really famous youtuber magicians? And a lot of what they do is they like, teach magic tricks for free on YouTube. And they expose magic on YouTube. And they're like, they're sort of like cool youtuber like, Casey. Nice tat want to beat you guys. Have you guys ever? I don't know. I don't know why you would have but this is a whole sub genre on YouTube.
+
+Unknown 53:26
+No, no, I didn't know that.
+
+Unknown 53:27
+It's a thing. And they're all
+
+Unknown 53:28
+I've seen. Like, like, when we watch that one trick by the guy who won the contest. I went and saw some like reaction videos and that kind of stuff. So I think that's what you're talking about. That's always what they're doing is it's like,
+
+Unknown 53:40
+Yes, they're taking some magic performance that goes viral. And then they're doing like, I react to Eric Chan, Sufism. And it's like, you know, it's like, oh, hey, no big deal. It's this guy's life's work that he's he's made these three minutes of entertainment. And now I'm going to monetize his performance on my YouTube channel and like, expose the secrets and judge it and talk about it. It's just it just bugs it's your nose me that shitty. I bought it. Like I don't even know needles me and they give away anyway, it doesn't matter. It doesn't matter. Anyway, these guys they kind of suck. And most people in magic are like, not super into them. And Jordan. Anyway, Jordan is talking to shoot one day that the master insurance has to shoot What do you think of so and so youtuber who's you know, very, he's got 3 million subscribers or whatever. And he's made. He's making tons of money doing this. And shoot, you shoot Japanese. He's trying to be respectful and he thinks about it for a second. He sort of he sort of shakes his head. He goes, I think he is internet numbers, man.
+
+Unknown 54:37
+Oh my god, internet numbers, man.
+
+Unknown 54:40
+Internet numbers, man. I'm sorry, did there was a whole side thing. But you're what you're talking about Merlin of like me? Yeah,
+
+Unknown 54:45
+no, that's it. That's internet numbers, man. Yeah,
+
+Unknown 54:48
+I think I think when you're saying there's broadcasters who get into podcasting, because they're, they want to become internet numbers, man.
+
+Unknown 54:54
+I totally I totally agree. And then like, I know, this is not real it God damn it. I know, this is not related. But it feels related. You know, I, I understand. You got a fucking Podcast Network or like, whatever. You have a studio, let's say in New York City. You've got maybe it's like WN yc, let's say for the sake of argument. Yeah, yeah. And you really need to bootstrap your new show. So what do you do? Well, first of all, you start jamming other fucking shows into an existing feed where somebody has the express interest of listening to this particular program, and you start jamming shit in and go, wow, you know what we're, we know you're going to be really excited about this new show we're doing that has fuck all to do with the show that we do. But here it is. And here's an episode. And then when you start doing that more, and then you start doing stuff like, Oh, you have guests hosts, where you don't have to work as hard. And then you start, you know what I mean? You kind of Terry Gross a little bit, but she's earned it. Like she's been in the ship for 40 years. She's earned some time off in her 60s or whatever. But you know, it just there's so much shit where it's like, wait a minute, where's the regular three hosts? They should show up every goddamn week. Put out this show on time and try. And part of trying is setting aside bullshit. That is insulting to your listeners. I am not usually this particular guy. But it's so Stevie how many people with shows I really love will walk right up to the edge of bullshit and doing what they do. And this is something I said to Syracuse, I think in the last episode of reconcilable differences. But you know, When, when, when Seth and Saul open up their hardware business, you know in Deadwood all right open for business, we got pans we got and the guy comes and goes check
+
+Unknown 56:26
+50 cent bar
+
+Unknown 56:28
+soap, I found a $5 bill in it over there every hour, they're giving away $5 in a bar and Seth walks up to the guy and he's like, take your business elsewhere. And because that's what it is you show up and so you take somebody's fucking magic video and reveal it you put bullshit in the feed you do all of this stuff. And just all this stuff did like it's not terrible, but it is bullshit. And like that now you're just not as good anymore because now you're the person who does you're playing a game and you're trying to show somebody this $5 in a bar so you were like let's it's not that different from fucking reply guy who just shows up and it's like, or like wants to talk about their their chem trails inside, you know, Maggie Haberman mentions or whatever, why you've never seen so many phones in your whole life is what I'm saying.
+
+Unknown 57:16
+It's just it's something there's something about the mob mentality of like, once someone starts sort of joking the stats and doing that dumb bullshit, and everybody feels like why I'm a sucker. I don't want to be the only sucker who's not doing it. Right? Yes. And so everybody sort of rushes towards that stuff. That's really annoying to the actual listeners. Well, you know, think
+
+Unknown 57:34
+about think about boarding a plane max. Think about when you're boarding a plane and everybody's in a fucking boarding group, you have a number if your number is three numbers away, you do not need to be standing right next to where the line is right now. You don't there's no need for that. Even you know who does that people who are in first class it's the funniest fucking thing in the world is they will just with their little like little stupid fucking carry on back. They will they will like it just like like, like a like a vulture. Just like a diary. A vulture just stand there. In one. It's like guy guy, guess what? You're in first class guy. You've got a chair. They've got a chair for you that they're not going to give to anybody else. And there's a hole in the ceiling where you can put your fucking bag, chill out. Move. let other old old ladies and children get on the goddamn plane. Nothing is being taken away from you gotta hate people today.
+
+Unknown 58:29
+So there is so there's no like, here's like the crabs in a bucket thing. There's, there's like the mob mob mentality thing? Yeah. But then you've also got on the on the platform side, you have the, you know things because at some point, there's so much stuff out there that everyone's like, why can't I find all the good stuff? Right? And then they start to do algorithms. And guess what? The algorithms usually these platforms wind up in a state of a parasitic sort of code dependence on
+
+Unknown 58:55
+the people who are doing these gimmicks because the people who are doing the gimmicks are internet numbers guy, guess what they bring in the fucking numbers. And now that's the thing. That's the thing. And that's the that's the new normal. I don't know if like playing big made sense. I just wanted to say those guys start swarming, and then everybody else swarms. And then pretty soon you got this crush of people like a fucking who concert moving nowhere, except closer to where they don't need to be and death the internet.
+
+Unknown 59:19
+I find myself thinking that all the time. I'm like, you know, I don't know, whatever the truth, everyone's streaming on Twitch, I sometimes I find myself I'm sitting on my desk going, am I I don't want to be the only sucker who's not doing this. Am I missing out?
+
+Unknown 59:32
+No, No, you don't.
+
+Unknown 59:33
+I mean, I it's, I I'm just saying like, do you guys must feel that? I mean, you can relate to that feeling right? of like, yes, everyone's doing this. And I don't want to be the only sucker who's not it. So there's the social side. But then there's also the platform side, which is like, like I was saying, like, it's just like, at some point, there becomes an algorithm, that sort stuff and the stuff that sadly, the stuff that gets sorted to the top tends to be that all this bullshit that we're don't like that we're talking about.
+
+Unknown 1:00:00
+But that doesn't mean it feels like that doesn't need to happen, like sub hop is still the label and the day golden days of music in various genres will come and go. But I think there are enough people in independent podcast with enough money, that they're not going to let that happen. Like d i don't think the flophouse is going to start doing reruns and don't make ATP is gonna be like,
+
+Unknown 1:00:28
+I can't even imagine Dave Dave. Elliott Kalan,
+
+Unknown 1:00:31
+no,
+
+Unknown 1:00:32
+but it's a it's a bit of a bummer. If, if Conan, if podcasts are a thing now, because Conan is doing a podcast?
+
+Unknown 1:00:40
+No, he, but he's been doing it for years do and it's pretty good. Like I like it. And that's why it's weird is because he did it on a whim. And he's like, there doesn't need to be another even says this in the variety piece. There doesn't need to be another comedian interviewing people. And it was like that, but then as producers are like, no, you're Conan O'Brien. And you have and make sense. It makes sense for him to do it.
+
+Unknown 1:01:02
+It's pretty good.
+
+Unknown 1:01:03
+He's playing in a smaller pond than he used to, and he needs to have some hustle for his ship. It makes sense.
+
+Unknown 1:01:09
+And I don't think they've ever rerun something that he's done. And that is why that's what that's also why it's funny to me that he's on the variety cover because this show has been around so long. And it's really
+
+Unknown 1:01:23
+is that right? Is that correct? Was he gone for a long time? I feel like this is a recent in the last year show.
+
+Unknown 1:01:29
+No. Conan wants some friends needs a friend. Yeah. Okay. And the did announce, I think at the very end like he's rebooting or doing something. But let me see.
+
+Unknown 1:01:42
+Well, 2018
+
+Unknown 1:01:47
+I guess it's so so here's the
+
+Unknown 1:01:49
+thing. Yes, yes. 2018.
+
+Unknown 1:01:52
+I'm okay.
+
+Unknown 1:01:54
+introducing a new podcast. Oh, I love those. I love the here's the audio podcast that's coming. That's fun in the feed. Oh, we've all done it. We've all done it.
+
+Unknown 1:02:05
+batteries. What? Wait, no, it's been an hour. We were starting two hours late.
+
+Unknown 1:02:14
+All right.
+
+Unknown 1:02:28
+Who This was Maria. Hello.
+
+Unknown 1:02:31
+Yeah, so my thing was I just mentioned I think in passing at some point, I guess in the last week that I think we may have done this once before I like the idea of completely arbitrarily just look over some old episodes. And and do some some catch up some if you like, follow up on what you've done on an old thing where there's something new and I had the reason I mentioned that was very specifically because hey, congratulations max. Temkin you got me into the goddamn in a loop batteries. I'm all in an inner loop battery so the challenge this week was to get some rechargeable batteries and and do stuff with them that's what we that's what we did.
+
+Unknown 1:03:12
+I put on the antelope so I heard about the antelopes from I think I'm from the Giant Bomb guys, I think I think they turned me on data loops like years ago. And they're they're like basically like super high quality double and triple a rechargeable batteries. And what's happened for me is over the course of the last year or so, every time I need a battery in anything in my house. So if a battery dies, or if I buy something new that needs batteries, I throw out the old battery and I replace it with an envelope and then the once the envelope is in now I don't have to throw those out, you just recharge those and I think over the course of about a year, I think I've now replaced every single battery in my house with double. That's where
+
+Unknown 1:03:53
+I am. That's Roy
+
+Unknown 1:03:54
+and I got and I got a couple of different chargers right so I have a charger in my office, I have a charger in the kitchen. And that what that what's nice about that is I don't have to like you know, it makes it a little more convenient for me when I'm feeling lazy to like actually remember to plug the batteries in. And then the other trick for envelopes that I've discovered is you're going to need more and you want more envelopes than you need. Because the trick is not to win your remote dies, you don't want to the goal is not to recharge the batteries overnight and not have a remote. The goal is that you have like hot batteries ready to go the pop into the remote, then you charge the dead ones and you put them back in the drawer so you always fresh batteries in the
+
+Unknown 1:04:32
+UK. That was gonna be one of my tips to is that. I mean, this has gotten so so much a thing that we do that it's just plugged in in our kitchen because of how often I do this but my my tip would even be and they're they're costly. So you don't want to go too crazy but by definitely buy more than you think you need. And what I do is I have one box that is these needs to be charged. And then another one I have one of those storage ones like a storage thing bespoke battery storage thing. And that's what I do. So you know, we've got stuff like under counter under our cabinets, we have these lights, where we don't have electric lighting under there, but like you wake up in the morning, you want to make coffee, you don't want the overhead light. And it's a little little touch, touch a little metal thing and the lights turn on LEDs. We do those we've got, again, battery powered motion sensor lights in the in our garage. We've got LEDs on little strips in in our pantry so yeah, same thing here max where it started out with you get these you charge them you top them off, and then you know you can when they run out your place. It's been however long I probably almost a year now. And I'm finally I'm think I'm finally all in because there are some things we hardly use at all. But like all the all my flashlights, all the lights and Alex you said like how would you need that many batteries? And it's like, well, the combination of a kid plus gadgets plus lots of lighting and I think they're terrific. You're You know, you're the best advice you gave and then I'll shut up when you said you know don't overthink the charging thing. Just you know once they're all charged once they're all installed, they're gonna go bad only a little at a time not bad but only they're gonna empty a little at a time and you just put them in overnight and you're done. You don't want to overthink it.
+
+Unknown 1:06:13
+Agree Yeah, that's that's here's my I have general life advice for just do by Friday listeners in general which is this there's some things in your life and they're usually like little shifts that you need. And they're never where you want them you know what I mean? Like Like I would say like chapstick is maybe an example of this I talked about this all the time just to have everything everywhere at least you should know now see I apparently I don't talk about it enough because I
+
+Unknown 1:06:42
+All right, you're right you're right.
+
+Unknown 1:06:44
+Look at this. I'm always near says
+
+Unknown 1:06:48
+What is it with scissors there I feel like that's one of the things people just take them
+
+Unknown 1:06:52
+scissors is such a good example. That's they're just so easy to take I real I have we had one scissors in our kitchen for a long time and I would use it to like a cut open I think a bacon and then I need to wash it but I would also need to like open a bag of coffee by the coffee maker and I would also need to open Amazon boxes for it when I had an Amazon box in the kitchen. And at some point I realized like what am I doing with my life that I have this one pair of scissors that is like you know us know you know what now I fucking four pairs of scissors in the kitchen and I have one I have one by the coffee. I have one I have I got a foods it's yours that I used to you know for meat and stuff. And I have one that's just for Amazon package whole tree scissors, poultry,
+
+Unknown 1:07:31
+poultry, scissors. I have the Marcos scissors right here, Alex
+
+Unknown 1:07:35
+nice. Did he do another blog post about scissors? Yeah,
+
+Unknown 1:07:38
+but I tried some of the premium ones I wasn't Can you
+
+Unknown 1:07:41
+can you say what they are?
+
+Unknown 1:07:42
+sure these are so sharp.
+
+Unknown 1:07:47
+They are really upsetting Lee sharp and I will look them up Oh no. Yeah, no, but these are oh these are good. Keep talking Alex Did you get batteries?
+
+Unknown 1:07:57
+When I I really am I have a jar and failure going to what jar failure peanut butter No, no. The honestly quite quite the opposite. I was skeptical of not like if they were good or not. I was just like there's not that many batteries in my life. I was wrong. Not in my house. I still don't know there's nothing in my house that needs a double A battery except 100. No flashlights? No, the the we just what are they the ones that you crank I have a crank or to reach
+
+Unknown 1:08:38
+a monster.
+
+Unknown 1:08:39
+Yep. But there are two very, very important things. My zoom which requires for double A batteries and like it takes up a whole bunch of power and although I have to change those fairly often because the what's it called self discharge? Boy
+
+Unknown 1:09:01
+manual release. Yep. Every time I couldn't do a manual release.
+
+Unknown 1:09:07
+The more importantly we have this
+
+Unknown 1:09:16
+recharge mo ba ba ba ba ba because they when they are just like what's the standby time on these? Oh, how long can they stay? Well you know what's interesting is I you know me I got a spreadsheet for everything. And when I got these I did some spreadsheets and they they say often that they're fully charged when they arrive that ain't true. They'll still take a few hours of charge also just for fun when I take them out and they've been sitting for a while I do top them off before I put them in personally so I don't know what the standby is that's that's I think that's part of the problem with these is they probably don't they probably wouldn't I wouldn't expect these to maintain their level for a year. Oh I
+
+Unknown 1:09:56
+this is crazy. I just throw them in a little bit and I use them when I use them and like the thing with double A batteries is like I don't have any applications for everything that I have that's like I need this to last the power to last like forever It's like it's rechargeable now
+
+Unknown 1:10:12
+flashlights
+
+Unknown 1:10:14
+flashlights are we are I think well I guess I have like a single double A battery and my flashlight
+
+Unknown 1:10:20
+we have got the market flashlight to
+
+Unknown 1:10:23
+wait the marker flashlight Marco Marco fly.
+
+Unknown 1:10:27
+By listener john Syracuse. It's not pronounced Fenix it's pronounced Phoenix Phoenix.
+
+Unknown 1:10:32
+I said Phoenix FENIXI obviously FedEx
+
+Unknown 1:10:35
+FedEx is better than say like
+
+Unknown 1:10:37
+I'm Alex you like the battery?
+
+Unknown 1:10:39
+I was like these are fine. They're normal but but we have a gigantic sound rig for live Cards Against Humanity shows that involve 12 different lav mics and 12 receivers Whoa, so I did just did a test it but like 3am in three. Okay, so six. Yep, I can do math used six of the envelopes. I like to call them antelopes also, and then just use regular double A's and not only did the envelopes last longer, they lasted two shows worth like
+
+Unknown 1:11:17
+regular alkaline
+
+Unknown 1:11:18
+batteries. Yes. Which is what has so I use the pro ones which I guess last longer but they took forever to charge and I don't crazy Yeah, and I don't know what it is but like after every show we end up basically throwing away 24 batteries because it's on for
+
+Unknown 1:11:40
+life does feel you know of the of the things that does feel so shitty that it feels so shady for us to have those little under counter lights. My wife forgets to turn it off in the morning. We don't see it because now it's light out this is not on her. But like and now the three batteries we throw away that which is gross like of all the ship I mean, I'm not the most environmentally woke person but like kind of just seems so unnecessary.
+
+Unknown 1:12:03
+Yeah, so the challenge not peanut butter peanut butter. Peanut butter.
+
+Unknown 1:12:08
+What are your other What are your other so we have scissors batteries. What are your other little shifts that you have? I have chopsticks all over the house. I have out clipper nail clippers you're going to want those all over the place
+
+Unknown 1:12:20
+microfiber glass
+
+Unknown 1:12:21
+Japanese nail clippers for sure.
+
+Unknown 1:12:25
+I've got the greatest nail clippers in the world they're great
+
+Unknown 1:12:27
+the converted I'm fully converted over to those those are really excellent.
+
+Unknown 1:12:32
+Yeah, yeah put one of those in your toiletries bag for your your set aside travel bag. I have so many things like this. It's not something I'm extremely proud of. But like for example like this shit I need to do in the basement I don't want to have to remember like there's so much stuff in the basement where I could really benefit from a knife and other kinds of tools. So now I have one of my less fancy leather man leathers men that I just I just leave down there that the Japanese Amazon package opening knife. I have one of those down there. You guys got those? You got the Japanese package opening knife.
+
+Unknown 1:13:03
+Oh, yeah. Oh, wait. Yes, yes. I'm sorry. The cardboard one? Yeah, that's
+
+Unknown 1:13:06
+when I stopped my hand with
+
+Unknown 1:13:08
+Oh, no, the yellow one this
+
+Unknown 1:13:09
+blunt. Oh, no, nevermind. It's a I have a different Japanese.
+
+Unknown 1:13:13
+Oh, you gotta get I like that. I love sheets like that. I do a lot of stuff like yeah, you know, I just I deploy things in various places. I have like a like, you know, a lot of people like, oh, gosh, I got an iPhone and it came with these used to be get the headphones or whatever. Or Yeah, and so just keep those around. Keep this in a glove box. You're going to need them someday. Especially if you have a kid who lost right and medics that are brand new nothing. But but like stuff like that. Just keep them around know where they are even like I have a Ziploc bag full of five watt, you know, dongles? I don't know when I'm going to need them. But Oh, these cables. Oh, so max also i'm trying a new multi cable. The Belkin is I haven't been able to get Yeah, they're sold out everywhere. Really? Okay, so that one how you described that Alex like a half a
+
+Unknown 1:13:58
+Hydra beautiful. Yes, it's like a Hydra or just like spin spindly alien arms. They're kind of like the arrival Oh look at
+
+Unknown 1:14:10
+this fellow
+
+Unknown 1:14:11
+max. This is a braided a braided cord with USB a on one side. And then coming out of that are two Lightning's a mini NE SPC.
+
+Unknown 1:14:20
+YDD Yo, so you could do all of
+
+Unknown 1:14:23
+the two Lightning's Yeah, yeah, where's that? What's this called?
+
+Unknown 1:14:27
+I guess Chinese? I'll find it
+
+Unknown 1:14:31
+but there is it is it available on amazon.com for purchase
+
+Unknown 1:14:34
+well it's available on Amazon Prime now every two hours let me look
+
+Unknown 1:14:38
+what's it What's it called? What do I search for my
+
+Unknown 1:14:40
+god I just remember
+
+Unknown 1:14:43
+this site is garbage the the Amazon Prime site is the prime now site is so bad
+
+Unknown 1:14:48
+I literally didn't know there was a website and thought you could only use the app. But what since you're in San Francisco what's the most wild thing you can get on prime because it lives here basically right then oh there's my goodness
+
+Unknown 1:15:02
+so many even opening the app Robert? Oh, more things Rubber
+
+Unknown 1:15:07
+Ducks
+
+Unknown 1:15:08
+there's a rubber duck for outdoor play oh there's
+
+Unknown 1:15:11
+there's extremely strange calm
+
+Unknown 1:15:16
+by the bring you luggage? There's what
+
+Unknown 1:15:19
+i like i like i Okay, so it sounds like I'm dragging these guys and I'm not I bought the studio neat version of this and it's cool. Um, but it is a huge cable and I don't think it works on some super high capacity SPC things and so this is a less costly option which I can't find for some reason I'm looking my orders Yeah, what what can you get on prime now? Oh, you know do you guys have full Whole Foods delivery there? I'm now
+
+Unknown 1:15:50
+not on like a very limited selection. Okay, like can you order like food food? Oh prime now. Oh, well, Amazon has a whole food food
+
+Unknown 1:15:59
+here.
+
+Unknown 1:16:00
+Okay, like well, I in Seattle. I opened prime now and it was like an Uber Eats or Postmates doordash situation.
+
+Unknown 1:16:09
+Oh, I hate to admit I love Uber Eats Oh boy. They'll do they'll do a McDonald's in 22 minutes baby.
+
+Unknown 1:16:15
+Whoo. They also have my rating is the same on Uber Eats as it is an Uber app.
+
+Unknown 1:16:26
+I don't look that up. I just asked my Uber driver Well, no, no, no stats no stats
+
+Unknown 1:16:33
+OG do you not look
+
+Unknown 1:16:34
+at your Oh my god. No. I don't want to know what anyone thinks about.
+
+Unknown 1:16:38
+Oh, it's Oh shit. How
+
+Unknown 1:16:41
+could you live with that? You know you need
+
+Unknown 1:16:45
+beta blockers.
+
+Transcribed by https://otter.ai
